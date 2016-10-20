@@ -1,0 +1,2 @@
+"foo.c": mygcc
+<foo_ml.*>: package(ctypes), package(ctypes.foreign), staticlinkopt

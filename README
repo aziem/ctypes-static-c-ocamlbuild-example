@@ -1,0 +1,2 @@
+Tiny example of building a C object file and static linking into an OCaml binary.
+This uses ocamlbuild with a simple ocamlbuild plugin in myocamlbuild.ml. 
